@@ -1,17 +1,16 @@
 # 👋 Olá, sou a Bianca Oliveira!
 
 🔧 Engenheira de Dados
-🎓 Formada em Análise e Desenvolvimento de Sistemas  
-📚 Bacharelado em Tecnologia da Informação – UNIVESP (em andamento)  
+🎓 Formada em Análise e Desenvolvimento de Sistemas
 📍 São Paulo\SP, Brasil  
 
-💼 Engenheira de Dados Trainee na [AI/R][(https://aircompany.ai/pt/home/)]
+💼 Engenheira de Dados Trainee na [AI/R](https://aircompany.ai/pt/home/)
 
 ---
 
 ## 🎯 Sobre mim
 
-Sou uma engenheira de dados apaixonada por tecnologia e dedicada ao desenvolvimento de soluções inovadoras. Atuo como **Programadora Trainee** na Compass UOL, onde estou mergulhando fundo no universo de análise e engenharia de dados, trabalhando com projetos que utilizam ferramentas como Python, SQL, Spark e plataformas em nuvem como AWS.
+Sou uma engenheira de dados apaixonada por tecnologia e dedicada ao desenvolvimento de soluções inovadoras. Atuo como **Programadora Trainee** na AI/R (Compass UOL), onde estou mergulhando fundo no universo de análise e engenharia de dados, trabalhando com projetos que utilizam ferramentas como Python, SQL, Spark e plataformas em nuvem como a AWS.
 
 
 Tenho formação técnica em **Desenvolvimento de Aplicativos Mobile** pela Generation Brasil, experiência em metodologias ágeis e desenvolvimento Android com **Kotlin**. Além disso, aprimorei habilidades interpessoais e de atendimento ao cliente durante minha trajetória como Recepcionista no Laboratório Lavoisier.
