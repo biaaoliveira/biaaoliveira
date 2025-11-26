@@ -5,7 +5,7 @@
 📚 Bacharelado em Tecnologia da Informação – UNIVESP (em andamento)  
 📍 São Paulo\SP, Brasil  
 
-💼 Engenheira de Dados Trainee na [AI/R] ([https://compass-uol.com.br/)](https://aircompany.ai/pt/home/) 
+💼 Engenheira de Dados Trainee na [AI/R][(https://aircompany.ai/pt/home/)]
 
 ---
 
