@@ -4,7 +4,7 @@
 🎓 Formada em Análise e Desenvolvimento de Sistemas
 📍 São Paulo\SP, Brasil  
 
-💼 Engenheira de Dados Trainee na [AI/R](https://aircompany.ai/pt/home/)
+💼 Engenheira de Dados na [AI/R](https://aircompany.ai/pt/home/)
 
 ---
 
@@ -28,4 +28,3 @@ Extração, transformação e carregamento de dados de filmes usando Python e SQ
 ## 📬 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-oliveira-666506218/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
